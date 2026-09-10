@@ -1,0 +1,6 @@
+# UV 관련
+.venv/
+__pycache__/
+*.pyc
+.python-version
+uv.lock
